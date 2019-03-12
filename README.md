@@ -2,7 +2,7 @@
 
 Sample property testing for an HTTP API.
 
-Worked my way through the Property Testing with PropEr, Erlang, and Elixir.
+I worked my way through the Property Testing with PropEr, Erlang, and Elixir (http://propertesting.com/) and wanted a real project to test out.
 
 This was abstracted and simplified from testing a real API. I did not replicate the API so this is just for reference and the basics.
 
